@@ -1,4 +1,4 @@
-#📘 JavaScript Important Topics
+#📘 JavaScript Important Topics Completed
 
 A list of important JavaScript topics for web development 🚀
 
