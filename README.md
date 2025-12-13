@@ -17,7 +17,7 @@ A list of important JavaScript topics for web development 🚀
       Loops (for, while, do…while, for…of, for…in)
 
 ---
---
+
 🔹 2. Functions
 
       Function declaration & expression
@@ -149,7 +149,3 @@ A list of important JavaScript topics for web development 🚀
 ---
 
 ✨ This list covers all major JavaScript topics for web development.
---
-----
---
-==
